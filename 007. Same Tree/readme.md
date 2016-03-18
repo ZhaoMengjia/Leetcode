@@ -1,3 +1,4 @@
+more simple solution:
 ```java
 public static boolean isSameTree(TreeNode p, TreeNode q) {
     if(p==null&&q==null) return true;
