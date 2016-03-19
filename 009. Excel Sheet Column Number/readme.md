@@ -11,5 +11,5 @@ public class Solution {
         return result;
     }
 }
-```java
+
 可公式推导
